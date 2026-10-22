@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.log
+screens/
+lab.ps1
+run_lab.bat
