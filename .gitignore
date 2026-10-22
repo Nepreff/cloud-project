@@ -4,6 +4,3 @@ __pycache__/
 venv/
 .env
 *.log
-screens/
-lab.ps1
-run_lab.bat
